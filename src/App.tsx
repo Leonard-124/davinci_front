@@ -1,7 +1,7 @@
 import { Routes, Route} from "react-router-dom"
 import Home from "./Components/Home"
-import Davinci from "./Components/davinci"
-import More from "./Components/more"
+import Davinci from "./Components/Davinci"
+import More from "./Components/More"
 
 const App = () => {
   return (
